@@ -21,6 +21,9 @@ To use this tool, ensure you have Go installed on your system. You can then clon
 1. Clone the repository or copy the code into a new file named `sha1.go`.
 2. Navigate to the directory containing `sha1.go`.
 
+### Contributions
+Contributions are welcome to change and update !!
+
 ### Usage
 
 To run the program and generate a SHA1 checksum, use the following command:
